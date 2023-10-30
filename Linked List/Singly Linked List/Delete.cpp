@@ -100,8 +100,8 @@ l.display();
 l.DeleteAtHead();
 l.display();
 
-// l.DeleteByValue(13);
-// l.display();
+l.DeleteByValue(13);
+l.display();
 
 // l.DeleteByValue(16);
 // l.display();
