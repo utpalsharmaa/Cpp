@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/UT20449257/Desktop/Cpp/LinkedList/SinglyLinkedList",
-      "program": "/Users/UT20449257/Desktop/Cpp/LinkedList/SinglyLinkedList/build/Debug/outDebug"
+      "cwd": "/Users/UT20449257/Desktop/Cpp/SinglyLinkedList",
+      "program": "/Users/UT20449257/Desktop/Cpp/SinglyLinkedList/build/Debug/outDebug"
     }
   ]
 }
